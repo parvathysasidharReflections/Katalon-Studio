@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Sign In</name>
+   <name>a_Corporate Programs</name>
    <tag></tag>
-   <elementGuidId>954d9d74-ad43-4b3f-b366-8e23ec31e128</elementGuidId>
+   <elementGuidId>62cd8c55-cd61-40e7-b8c0-025398e26417</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='primaryNavigation']/div/span/strong/a</value>
+         <value>//div[@id='primaryNavigation']/div/ul/li[7]/ul/li[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.text-danger</value>
+         <value>ul.dropdown-menu.show > li:nth-of-type(2) > a.dropdown-item</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +22,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>17bfe212-eec5-472b-a1d7-9a781a26e355</webElementGuid>
+      <webElementGuid>c683d2c1-214c-420e-af1b-386af784341a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://yourlogo.geiger.com/login</value>
-      <webElementGuid>06affa3a-d487-4906-8174-6a2e170b193a</webElementGuid>
+      <value>https://yourlogo.geiger.com/c/program-capabilities</value>
+      <webElementGuid>a6a529ad-a472-4d87-8e45-ea00a3eb169a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text-danger</value>
-      <webElementGuid>99f16ea7-5038-4828-9e58-72896ce103f7</webElementGuid>
+      <value>dropdown-item</value>
+      <webElementGuid>f2c1f600-9b0e-439a-9a96-e1c3d2ace716</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign In</value>
-      <webElementGuid>7409ad71-9d3a-4c18-b0ac-b11ac1663982</webElementGuid>
+      <value>Corporate Programs</value>
+      <webElementGuid>a5d38bd0-0130-423e-aa23-25c077d7e3d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;primaryNavigation&quot;)/div[@class=&quot;navbar-content&quot;]/span[@class=&quot;navbar-text mx-auto&quot;]/strong[1]/a[@class=&quot;text-danger&quot;]</value>
-      <webElementGuid>181836ca-6f61-47ce-82e8-ba5c408203ad</webElementGuid>
+      <value>id(&quot;primaryNavigation&quot;)/div[@class=&quot;navbar-content&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown show&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[2]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>382496c3-2402-4edf-a388-6106ee25c78f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='primaryNavigation']/div/span/strong/a</value>
-      <webElementGuid>9dac2a01-89e7-4101-b9ac-1ac5ca80345f</webElementGuid>
+      <value>//div[@id='primaryNavigation']/div/ul/li[7]/ul/li[2]/a</value>
+      <webElementGuid>bee8ba4c-9e70-4b82-bd87-d5298e1d13c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Sign In')]</value>
-      <webElementGuid>5374a939-a1de-4554-b0cc-0ce4277d644d</webElementGuid>
+      <value>//a[contains(text(),'Corporate Programs')]</value>
+      <webElementGuid>7d596ca0-b643-4bbb-b227-158ff8264736</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expos'])[1]/following::a[1]</value>
-      <webElementGuid>288c7422-539e-41c3-b541-a5e67dc2efa3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kitting'])[1]/following::a[1]</value>
+      <webElementGuid>7d5dcbe0-7cd8-40d3-9cb5-3123003dbf24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::a[1]</value>
-      <webElementGuid>a6ef96a7-089a-40df-9971-7513b4260f4d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Services'])[1]/following::a[2]</value>
+      <webElementGuid>3ba84372-6d2e-47d4-ace4-d303b02881f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>3ed9a09f-5613-4e5f-8b70-946626771e57</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Products'])[1]/preceding::a[1]</value>
+      <webElementGuid>81bb621a-274b-4eb1-a64b-90d6476aa3dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>9b2dbb2f-cd20-49f0-af9c-4f7291e7eb61</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expos'])[1]/preceding::a[2]</value>
+      <webElementGuid>8a0a2ce2-6db0-40ca-b36d-76358bbbb69e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Corporate Programs']/parent::*</value>
+      <webElementGuid>1504bcc0-f057-4757-8d44-2f6174d66d1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://yourlogo.geiger.com/login')]</value>
-      <webElementGuid>0ad9637a-31b9-482e-b0dd-1c431739a35a</webElementGuid>
+      <value>(//a[contains(@href, 'https://yourlogo.geiger.com/c/program-capabilities')])[2]</value>
+      <webElementGuid>cbd244ac-0a7b-4a7a-8bd8-d4776700fb1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//strong/a</value>
-      <webElementGuid>28692e20-ab81-471c-99d8-85bc59e7b4ec</webElementGuid>
+      <value>//li[7]/ul/li[2]/a</value>
+      <webElementGuid>1f8dfdbe-0267-4255-bfe6-5ce3aafab8cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://yourlogo.geiger.com/login' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>f268b8ce-2d0d-4a21-b049-79dcb7ef7ac0</webElementGuid>
+      <value>//a[@href = 'https://yourlogo.geiger.com/c/program-capabilities' and (text() = 'Corporate Programs' or . = 'Corporate Programs')]</value>
+      <webElementGuid>0460bab3-908d-469a-a5c0-460e9e276c3f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Sign In</name>
+   <name>li_Corporate Gift Services Kitting Drop Shi_2877e9</name>
    <tag></tag>
-   <elementGuidId>954d9d74-ad43-4b3f-b366-8e23ec31e128</elementGuidId>
+   <elementGuidId>b405da59-f48f-43fd-9253-f76aa17eafd0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='primaryNavigation']/div/span/strong/a</value>
+         <value>//div[@id='app']/nav[2]/div/ol/li[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.text-danger</value>
+         <value>li.breadcrumb-item.active.d-none.d-sm-inline-block</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,111 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>17bfe212-eec5-472b-a1d7-9a781a26e355</webElementGuid>
+      <value>li</value>
+      <webElementGuid>b1b15443-aea9-4144-ad32-cee4ea20e5e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>aria-current</name>
       <type>Main</type>
-      <value>https://yourlogo.geiger.com/login</value>
-      <webElementGuid>06affa3a-d487-4906-8174-6a2e170b193a</webElementGuid>
+      <value>page</value>
+      <webElementGuid>c473e4f2-2e39-47e5-a467-ee9abd527dff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text-danger</value>
-      <webElementGuid>99f16ea7-5038-4828-9e58-72896ce103f7</webElementGuid>
+      <value>breadcrumb-item active d-none d-sm-inline-block</value>
+      <webElementGuid>79a10843-95f7-4a03-bdf8-907251aee25a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign In</value>
-      <webElementGuid>7409ad71-9d3a-4c18-b0ac-b11ac1663982</webElementGuid>
+      <value>Corporate Gift Services Kitting Drop Shipping and Personalization</value>
+      <webElementGuid>86f0b018-66eb-4b6a-8b7b-8c81fd665bc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;primaryNavigation&quot;)/div[@class=&quot;navbar-content&quot;]/span[@class=&quot;navbar-text mx-auto&quot;]/strong[1]/a[@class=&quot;text-danger&quot;]</value>
-      <webElementGuid>181836ca-6f61-47ce-82e8-ba5c408203ad</webElementGuid>
+      <value>id(&quot;app&quot;)/nav[@class=&quot;nav-breadcrumb&quot;]/div[@class=&quot;container&quot;]/ol[@class=&quot;breadcrumb&quot;]/li[@class=&quot;breadcrumb-item active d-none d-sm-inline-block&quot;]</value>
+      <webElementGuid>f1f10502-1cb6-43df-a107-c9d14668dc0d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='primaryNavigation']/div/span/strong/a</value>
-      <webElementGuid>9dac2a01-89e7-4101-b9ac-1ac5ca80345f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Sign In')]</value>
-      <webElementGuid>5374a939-a1de-4554-b0cc-0ce4277d644d</webElementGuid>
+      <value>//div[@id='app']/nav[2]/div/ol/li[2]</value>
+      <webElementGuid>7fdf54a7-0482-4ca1-8e37-d8ffc99c833d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expos'])[1]/following::a[1]</value>
-      <webElementGuid>288c7422-539e-41c3-b541-a5e67dc2efa3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::li[1]</value>
+      <webElementGuid>71d89341-d83a-482c-8c34-5ea72b898e9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::a[1]</value>
-      <webElementGuid>a6ef96a7-089a-40df-9971-7513b4260f4d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/following::li[2]</value>
+      <webElementGuid>b0ac233d-52ff-48aa-9c33-b6347a5150cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>3ed9a09f-5613-4e5f-8b70-946626771e57</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Gift Services: Kitting, Drop Shipping &amp; Personalization'])[1]/preceding::li[1]</value>
+      <webElementGuid>8dd7b0d5-629c-4563-9866-757dfb9b05f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>9b2dbb2f-cd20-49f0-af9c-4f7291e7eb61</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='published: April 21, 2021'])[1]/preceding::li[1]</value>
+      <webElementGuid>0e9c51fc-e06f-4c15-b18d-3dadc8e64261</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://yourlogo.geiger.com/login')]</value>
-      <webElementGuid>0ad9637a-31b9-482e-b0dd-1c431739a35a</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Corporate Gift Services Kitting Drop Shipping and Personalization']/parent::*</value>
+      <webElementGuid>dd2d51cc-e495-412c-b2c3-1987c68a0cee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//strong/a</value>
-      <webElementGuid>28692e20-ab81-471c-99d8-85bc59e7b4ec</webElementGuid>
+      <value>//ol/li[2]</value>
+      <webElementGuid>a0e6d752-ab8c-498c-b181-23d3cb80147d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://yourlogo.geiger.com/login' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>f268b8ce-2d0d-4a21-b049-79dcb7ef7ac0</webElementGuid>
+      <value>//li[(text() = 'Corporate Gift Services Kitting Drop Shipping and Personalization' or . = 'Corporate Gift Services Kitting Drop Shipping and Personalization')]</value>
+      <webElementGuid>0399ec13-35f3-443c-accd-5b0ddbb576ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
