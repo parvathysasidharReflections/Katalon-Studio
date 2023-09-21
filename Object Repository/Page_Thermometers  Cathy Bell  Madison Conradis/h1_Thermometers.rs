@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Thermometers</name>
+   <tag></tag>
+   <elementGuidId>65681136-d499-4fcc-a4e5-9542c9a9d62a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.page-heading.text-brand</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>5ade61f4-4ac3-4edd-be86-968d44c585cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-heading text-brand</value>
+      <webElementGuid>c0dde124-88ef-4960-8de9-bd2dbda64990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thermometers</value>
+      <webElementGuid>5286b577-64f8-4065-b40b-e1c715cdbfb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container&quot;]/h1[@class=&quot;page-heading text-brand&quot;]</value>
+      <webElementGuid>ba8b855c-d9cb-4fc7-ad8b-624933d4672c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/div/h1</value>
+      <webElementGuid>307fde4e-313b-480e-999e-eca57153ca1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thermometers'])[2]/following::h1[1]</value>
+      <webElementGuid>ec11e2df-445c-4fd1-854e-7f9eec863329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health &amp; Wellness'])[2]/following::h1[1]</value>
+      <webElementGuid>15e8d8b6-92e8-4d3c-9c11-1834e5c07c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Narrow your search'])[1]/preceding::h1[1]</value>
+      <webElementGuid>7f64222f-84db-4359-93dd-7db4c233d00f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/preceding::h1[1]</value>
+      <webElementGuid>dc5f4736-9949-4eb6-ae93-a93adc6e5165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>991a90f8-c4c1-466c-9459-3495998535b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Thermometers' or . = 'Thermometers')]</value>
+      <webElementGuid>8ef7b855-af6b-4ce4-9a62-2a67bbc7fa01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

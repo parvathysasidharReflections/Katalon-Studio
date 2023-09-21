@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Thermometers</name>
+   <tag></tag>
+   <elementGuidId>8c94f26e-dfd0-4b2a-b741-10dfd0a5d874</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.breadcrumb-item.active.d-none.d-sm-inline-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/nav[2]/div/ol/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>caa754ed-951e-4dee-a61e-8a0a090551d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>1671f57b-9a45-496a-bf63-6d327ac8f5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>breadcrumb-item active d-none d-sm-inline-block</value>
+      <webElementGuid>74fb565e-4319-45e8-858d-4aabc675ef8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thermometers</value>
+      <webElementGuid>cb175064-782b-4fa0-93c0-779547420538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/nav[@class=&quot;nav-breadcrumb&quot;]/div[@class=&quot;container&quot;]/ol[@class=&quot;breadcrumb&quot;]/li[@class=&quot;breadcrumb-item active d-none d-sm-inline-block&quot;]</value>
+      <webElementGuid>a27c597b-6d3b-4db4-82c2-a2a499b67548</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/nav[2]/div/ol/li[3]</value>
+      <webElementGuid>67c6df04-b83b-467d-817a-1e10c75de466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health &amp; Wellness'])[2]/following::li[1]</value>
+      <webElementGuid>4b65e081-d82a-462a-ae8b-846891d073f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::li[2]</value>
+      <webElementGuid>952a04fd-6ca6-489b-b548-735be83ec773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thermometers'])[3]/preceding::li[1]</value>
+      <webElementGuid>4dc3ad84-ea81-4d72-934b-84a84d68be6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Narrow your search'])[1]/preceding::li[1]</value>
+      <webElementGuid>185b2793-c5ad-4f32-b4d9-93770c0263cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[3]</value>
+      <webElementGuid>514f9920-880e-48af-9c8f-053709e44acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Thermometers' or . = 'Thermometers')]</value>
+      <webElementGuid>63e214a1-4ea9-41b3-8ecc-85fdf92f4e49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

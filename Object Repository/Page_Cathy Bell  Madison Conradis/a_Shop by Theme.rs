@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shop by Theme</name>
+   <tag></tag>
+   <elementGuidId>5a080fe2-811c-4e2f-8f97-a6c1c9f1e3dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='primaryNavigation']/div/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0325fb3d-7625-4aab-ae75-f5fcae7a6c2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://yourlogo.geiger.com/c/shop-by-theme</value>
+      <webElementGuid>a843d2e9-deac-4163-8956-fe93c0c824a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>8114a6ef-e469-451b-a68f-384921479be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop by Theme</value>
+      <webElementGuid>32344e4f-3c92-4ab1-b516-9c74cd858d9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primaryNavigation&quot;)/div[@class=&quot;navbar-content&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>f42aaaaa-b2bc-4d8e-8bfb-ed2151cd5dad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='primaryNavigation']/div/ul/li[6]/a</value>
+      <webElementGuid>da7af673-acae-42c5-9398-3d7af92e31ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shop by Theme')]</value>
+      <webElementGuid>f639769f-2e28-47fb-8e27-e0437cbe0fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deals'])[2]/following::a[1]</value>
+      <webElementGuid>11b791c9-b9fa-4ce5-89f0-4073c8be237a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand Names'])[2]/following::a[2]</value>
+      <webElementGuid>0ebf4fa3-c512-4c2f-a1f0-cc4cd01dad3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Services'])[1]/preceding::a[1]</value>
+      <webElementGuid>2cef5870-183d-4c80-9e65-6207a17065cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kitting'])[1]/preceding::a[2]</value>
+      <webElementGuid>dec1213f-72b6-46a2-9707-ff2d367258df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shop by Theme']/parent::*</value>
+      <webElementGuid>12198e57-6d45-41fe-a25d-6051ba9b762b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://yourlogo.geiger.com/c/shop-by-theme')]</value>
+      <webElementGuid>66ac73ca-f086-4599-bdf8-10a66145c2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>993f14dd-433b-45c2-9b5d-2c9f4d030947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://yourlogo.geiger.com/c/shop-by-theme' and (text() = 'Shop by Theme' or . = 'Shop by Theme')]</value>
+      <webElementGuid>852e515d-2158-40e9-a0cb-1c37a699bf0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

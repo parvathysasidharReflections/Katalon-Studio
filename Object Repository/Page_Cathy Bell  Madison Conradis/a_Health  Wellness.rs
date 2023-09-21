@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Health  Wellness</name>
+   <tag></tag>
+   <elementGuidId>88efb679-f34f-48e3-9f07-1b3a3af49885</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='primaryNavigation']/div/ul/li/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>53ecef2f-bb1b-4793-81a0-81ab04b3128d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://yourlogo.geiger.com/b/health-and-wellness</value>
+      <webElementGuid>de4dc316-025f-4a18-92ab-d92b7948cea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>flyout</value>
+      <webElementGuid>0483d798-bc53-4530-8b0f-c3102eff0f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1bed791e-8628-42d6-9674-c28785eeb97a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>18b4d695-f44d-4f6a-b355-1b0bf6e90d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item dropdown-toggle flyout-toggle</value>
+      <webElementGuid>cbc7f7de-8e84-4370-bd1e-e0a48ef577d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Health &amp; Wellness</value>
+      <webElementGuid>f0f16ad6-f2d7-4adc-b8c1-17d2b1a6f26e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primaryNavigation&quot;)/div[@class=&quot;navbar-content&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown show&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[@class=&quot;flyout&quot;]/a[@class=&quot;dropdown-item dropdown-toggle flyout-toggle&quot;]</value>
+      <webElementGuid>2ca81dd8-c885-4306-b1f9-79c755183f6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='primaryNavigation']/div/ul/li/ul/li[4]/a</value>
+      <webElementGuid>b54657ba-20d8-4648-98b1-d35b283e39f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Health &amp; Wellness')]</value>
+      <webElementGuid>0592033d-2c53-45c4-95b0-c41393299aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Drinkware'])[1]/following::a[1]</value>
+      <webElementGuid>c3ab1e60-b633-42ae-9852-61a9d395c274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Water Bottles'])[1]/following::a[2]</value>
+      <webElementGuid>94a3f175-477f-4253-9dc0-3f5e1fa87b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Awareness Bracelets'])[1]/preceding::a[1]</value>
+      <webElementGuid>1d6e28c8-0b28-4f1c-9888-6c0adeccfa26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dental Care'])[1]/preceding::a[2]</value>
+      <webElementGuid>ea03b016-e99c-47fe-9cf9-38712f313a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Health &amp; Wellness']/parent::*</value>
+      <webElementGuid>57073e8c-110f-4125-a56f-26f33f76e207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://yourlogo.geiger.com/b/health-and-wellness')]</value>
+      <webElementGuid>150d4625-d42e-4d24-8956-a7eca86fe894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[4]/a</value>
+      <webElementGuid>a5cd3467-086d-4fe6-96f2-bede1251aae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://yourlogo.geiger.com/b/health-and-wellness' and (text() = 'Health &amp; Wellness' or . = 'Health &amp; Wellness')]</value>
+      <webElementGuid>0d5e8b3a-eb86-4ae2-9c1d-05916eafad9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

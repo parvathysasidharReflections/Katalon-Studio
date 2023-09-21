@@ -30,26 +30,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Cathy Bell 
 
 WebUI.click(findTestObject('Object Repository/Page_Login  Cathy Bell  Madison Conradis/button_Log In'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/svg_Skip to main content_svg-geiger-brandspiration'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/input_Product Search_q'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/img_Shopping Cart_d-sm-block'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/h4_Local'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/h4_National'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/h4_International'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/footer_About Geiger About Us Press Room Pro_f3d85e'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/p_We can help you build your brand, promote_371059'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/a_Shop by Theme'))
 
 WebUI.closeBrowser()
 
