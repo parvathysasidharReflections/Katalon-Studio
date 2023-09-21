@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f5065835-ab45-4e7b-985e-0a2460b86e17</webElementGuid>
+      <webElementGuid>b1dc3af8-11d7-4fd5-97c2-9380d828c8fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://yourlogo.geiger.com/p</value>
-      <webElementGuid>ca9f2a74-0b99-4a29-b1bf-dec81d453d74</webElementGuid>
+      <webElementGuid>0e23580c-bd56-485a-9feb-b0bb685f9bd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>733709dd-d5b0-4f6f-ae1e-49dc107a4408</webElementGuid>
+      <webElementGuid>3b60251a-c8e7-4be3-9eb0-16c90e4593b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6158efd5-cd3a-4c87-bafe-a85e728d73d8</webElementGuid>
+      <webElementGuid>d89ca3cd-603c-4732-9d8a-f5509605288b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e9f5137a-3a2c-49d5-b4e9-bec51421b656</webElementGuid>
+      <webElementGuid>27dda2c2-25a1-4bc5-9d64-16c06d562e55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link dropdown-toggle</value>
-      <webElementGuid>58dd02ee-f631-4b5d-9199-4b5c62dafd55</webElementGuid>
+      <webElementGuid>04adb9af-6e77-4762-aea7-c3fbe8653c17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Shop by Product</value>
-      <webElementGuid>ea8bf745-037e-492f-9cf5-e4773e5f8dab</webElementGuid>
+      <webElementGuid>34d1eeb3-9174-43c8-bfe5-7466b57cd16c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;primaryNavigation&quot;)/div[@class=&quot;navbar-content&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/a[@class=&quot;nav-link dropdown-toggle&quot;]</value>
-      <webElementGuid>f40368e4-c73a-4c4b-826a-43fdc0647507</webElementGuid>
+      <webElementGuid>1f76b536-85d5-4990-b058-317ef6fcf57a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='primaryNavigation']/div/ul/li/a</value>
-      <webElementGuid>953dc097-af52-4259-8f03-ef0d15400422</webElementGuid>
+      <webElementGuid>97171aaf-b9f5-4f61-9600-bfb9c22095b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Shop by Product')]</value>
-      <webElementGuid>593cf0e4-3ada-4a8e-a845-bea5be97da48</webElementGuid>
+      <webElementGuid>517c2a6d-b7af-4863-9b2c-192244a49a45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::a[1]</value>
-      <webElementGuid>36def896-ba6f-4101-bfcf-23265ee2fa1b</webElementGuid>
+      <webElementGuid>43cfb00e-675e-4f73-a025-2c5b5ef133dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping cart'])[1]/following::a[1]</value>
-      <webElementGuid>13828541-5061-499e-bafb-55297950c3a6</webElementGuid>
+      <webElementGuid>0612bbb4-f582-4dc4-888c-22f4d538a9cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apparel'])[1]/preceding::a[1]</value>
-      <webElementGuid>e0f979d6-f83f-4a6f-9a7a-53e0d426239f</webElementGuid>
+      <webElementGuid>6658f166-e8ed-4da0-b9f1-504c7f09a482</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessories'])[1]/preceding::a[2]</value>
-      <webElementGuid>eff0c20c-edb8-4c3b-8ca7-14c9b71888fb</webElementGuid>
+      <webElementGuid>da5f4555-8341-47da-badd-2ffbb3c8314d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Shop by Product']/parent::*</value>
-      <webElementGuid>01151642-2b9c-434d-be78-3474082bc8f4</webElementGuid>
+      <webElementGuid>85448dff-b93b-4903-83ed-b7f1f1a51f82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://yourlogo.geiger.com/p')]</value>
-      <webElementGuid>5cc054fb-c800-4b8b-9c46-3cc19db4029f</webElementGuid>
+      <webElementGuid>b51f12ba-c8ac-410a-9254-8ccc0ffc69bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>c3bdfe23-e89a-484f-9c17-957081ba83e1</webElementGuid>
+      <webElementGuid>613ee860-d767-448a-8500-ac896b02c9fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://yourlogo.geiger.com/p' and (text() = 'Shop by Product' or . = 'Shop by Product')]</value>
-      <webElementGuid>6fb67e63-fbd6-4d25-9adc-6a8601a170c2</webElementGuid>
+      <webElementGuid>11652643-8674-4644-bbcc-3c4e82b32a95</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

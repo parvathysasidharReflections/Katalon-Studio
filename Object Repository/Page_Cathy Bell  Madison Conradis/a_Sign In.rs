@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f6f24e2f-b920-4099-9e9e-6e401ee148df</webElementGuid>
+      <webElementGuid>53dc304b-32cc-4ec1-9455-7720fb3f3ae5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://yourlogo.geiger.com/login</value>
-      <webElementGuid>1e368132-9f21-42e5-ae7b-e81b534294a6</webElementGuid>
+      <webElementGuid>63f575d8-1f26-4e7a-ae06-1a8e1bd7616a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-danger</value>
-      <webElementGuid>ff78a436-0f5b-487c-b449-f2935be67310</webElementGuid>
+      <webElementGuid>ae128686-fb67-42ba-bbd9-a22e9eb95942</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>4985a37d-2cc4-4e3c-bb65-68ab5da37866</webElementGuid>
+      <webElementGuid>3781f761-6c45-4698-8e10-a5f797c5d224</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;primaryNavigation&quot;)/div[@class=&quot;navbar-content&quot;]/span[@class=&quot;navbar-text mx-auto&quot;]/strong[1]/a[@class=&quot;text-danger&quot;]</value>
-      <webElementGuid>0623cc1c-6866-4167-b1c9-4618ddf77cdb</webElementGuid>
+      <webElementGuid>fe5f2339-7993-4115-aca8-4c8e29ad5587</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='primaryNavigation']/div/span/strong/a</value>
-      <webElementGuid>2de70f0a-d45a-4eb1-8f30-b770c44ded13</webElementGuid>
+      <webElementGuid>70799377-f8b8-43f5-9850-f62ba37d357f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sign In')]</value>
-      <webElementGuid>dd7279d6-6eef-4ad6-9051-e7426c10fd3e</webElementGuid>
+      <webElementGuid>0d743cfd-5f55-429a-8416-1a7ca82a7f69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Expos'])[1]/following::a[1]</value>
-      <webElementGuid>df42866e-699e-4bc6-941e-fac0d5a8f182</webElementGuid>
+      <webElementGuid>86e79600-b4dd-4ff4-a34f-24049ee6cd74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::a[1]</value>
-      <webElementGuid>d0320f34-fcea-480e-bd10-a94776b4f0a6</webElementGuid>
+      <webElementGuid>a34aeb83-8910-465a-9d75-7355a0ffd531</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>ab2083a2-0934-4824-9a84-4f7b719eb10c</webElementGuid>
+      <webElementGuid>f7febdbe-0f53-4369-99ac-a2104548303b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>148e4c25-7c09-4b81-ac5c-b2b10bbbfb45</webElementGuid>
+      <webElementGuid>481bd9fd-2281-4363-a8f5-c0e5da223973</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://yourlogo.geiger.com/login')]</value>
-      <webElementGuid>acc9e0a8-a7d6-4b3b-b640-1c4289f4e6e9</webElementGuid>
+      <webElementGuid>8157cc57-dfdf-499c-b489-df8d05ba651a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//strong/a</value>
-      <webElementGuid>81c1d2ae-5ad4-405d-92a7-1a3c00ebaa03</webElementGuid>
+      <webElementGuid>1bc8b52f-ad76-4305-a215-1feea421dba4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://yourlogo.geiger.com/login' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>555cf5c5-9345-4528-9c9c-41987469b29e</webElementGuid>
+      <webElementGuid>a561da1c-4e38-4e09-8c15-011517581519</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

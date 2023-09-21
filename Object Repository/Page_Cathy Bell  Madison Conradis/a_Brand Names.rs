@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log In</name>
+   <name>a_Brand Names</name>
    <tag></tag>
-   <elementGuidId>8b24b795-586c-48b6-9afd-6cf0054e8c62</elementGuidId>
+   <elementGuidId>b6a009a6-df9c-4ce7-8587-e3350419de19</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='submit'])[3]</value>
+         <value>//div[@id='primaryNavigation']/div/ul/li[4]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>3d3e11c6-e8b5-4f01-971e-d723582de770</webElementGuid>
+      <value>a</value>
+      <webElementGuid>09bb0609-fa72-478e-8ed5-69b258f3b4d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>href</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>d1709bdf-e6e1-4caf-b38e-86b9d925e896</webElementGuid>
+      <value>https://yourlogo.geiger.com/c/shop-by-brand</value>
+      <webElementGuid>51e0b772-2b38-4a19-b95d-13e501ed4116</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>7fd87a79-7f8a-4230-ada8-90b6247a2ce8</webElementGuid>
+      <value>nav-link</value>
+      <webElementGuid>e6d9a6fc-c662-4856-86f2-22282b0ff006</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Log In </value>
-      <webElementGuid>cd329f64-4006-43ee-8a8f-d73e9f05a78c</webElementGuid>
+      <value>Brand Names</value>
+      <webElementGuid>2d97b40b-1b00-4c82-8149-e139a6d106d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;card mb-3&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-8 offset-md-4&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>1f19caec-4958-4494-9597-ff289734dde7</webElementGuid>
+      <value>id(&quot;primaryNavigation&quot;)/div[@class=&quot;navbar-content&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>fe55534b-4a9f-49db-8444-48a92c1a2cba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='submit'])[3]</value>
-      <webElementGuid>9e573078-a193-41ee-9d6b-c05f7c2f1ab6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//main[@id='content']/div/div/div/div/div[2]/form/div[4]/div/button</value>
-      <webElementGuid>8cb55578-12cb-4ca6-b729-b90ec81bee0e</webElementGuid>
+      <value>//div[@id='primaryNavigation']/div/ul/li[4]/a</value>
+      <webElementGuid>b8e9aa2b-4b0a-45de-8699-a6053689e886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Brand Names')])[2]</value>
+      <webElementGuid>d7e78bf1-e5a2-43d6-93fb-d027de06f976</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Me'])[1]/following::button[1]</value>
-      <webElementGuid>76b2f610-dc21-4dd1-8dc0-7bf48351ca71</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rush Products'])[1]/following::a[1]</value>
+      <webElementGuid>b111d9b4-0245-406e-86fb-f0b87c89e1f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>bc3beee1-3937-41d2-b6c5-12afbce8a319</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Products'])[2]/following::a[2]</value>
+      <webElementGuid>68cb3ff0-3f77-4b62-abc2-dfdb2117c6ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Your Password?'])[1]/preceding::button[1]</value>
-      <webElementGuid>151d58c7-2128-4279-9ead-da527e11882b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deals'])[2]/preceding::a[1]</value>
+      <webElementGuid>92219c3d-45d2-4079-bf07-2d11452a2ccf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Log In']/parent::*</value>
-      <webElementGuid>22734100-4014-4bde-bb2e-2cb88d71196e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop by Theme'])[1]/preceding::a[2]</value>
+      <webElementGuid>a22b8f4e-cf90-4139-a15b-1e80617bec6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://yourlogo.geiger.com/c/shop-by-brand')]</value>
+      <webElementGuid>b406ff57-6655-4af5-a2db-0c2202fcc8a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/button</value>
-      <webElementGuid>62ed302e-9a4c-42c1-b9a9-a9cb1449e308</webElementGuid>
+      <value>//li[4]/a</value>
+      <webElementGuid>1dc77177-1385-4906-a919-1e705dc57ae6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Log In ' or . = ' Log In ')]</value>
-      <webElementGuid>23a81c49-4f94-45ca-9d5b-60a4ba9467f2</webElementGuid>
+      <value>//a[@href = 'https://yourlogo.geiger.com/c/shop-by-brand' and (text() = 'Brand Names' or . = 'Brand Names')]</value>
+      <webElementGuid>50e08600-709a-4b9b-bb10-5dc0b0601661</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
