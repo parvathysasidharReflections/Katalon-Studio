@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_International</name>
+   <tag></tag>
+   <elementGuidId>a2b21caf-187c-4dc9-bed0-4e9f1f4b3f5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/div/div[2]/div/div/div/div[3]/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>f7eb8ed8-cdec-46bd-9948-2251a02be5c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-heading text-truncate with-dot</value>
+      <webElementGuid>44cb18b8-fbb6-4ec8-867f-c99d21f21e75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>International</value>
+      <webElementGuid>82e32761-d93c-44ff-9f16-06d6b311e031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;mb-5&quot;]/div[@class=&quot;bg-light&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md py-2&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-body&quot;]/h4[@class=&quot;section-heading text-truncate with-dot&quot;]</value>
+      <webElementGuid>8b787fe2-c2fd-4ea5-949d-20ffeb286a6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/div/div[2]/div/div/div/div[3]/div/div/h4</value>
+      <webElementGuid>5a10a704-66e4-480a-ad15-f57205e4d676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='National'])[1]/following::h4[1]</value>
+      <webElementGuid>31b8891c-905b-41fa-b505-3866c770e4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Local'])[1]/following::h4[2]</value>
+      <webElementGuid>9e727614-c6f0-435c-829c-59d87541619a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured Products'])[1]/preceding::h4[1]</value>
+      <webElementGuid>10b382ee-c505-475a-b3bd-f49f74a6a4ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sublimated Bucket Hat'])[1]/preceding::h4[1]</value>
+      <webElementGuid>7e587b16-b6e6-4912-a406-d418a9f2e753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='International']/parent::*</value>
+      <webElementGuid>d33209c1-5e61-4901-b8c5-290d36e9c98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/h4</value>
+      <webElementGuid>91a30b4d-f296-42f6-953c-a9b38b1ba037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'International' or . = 'International')]</value>
+      <webElementGuid>09572f4d-25aa-474a-bc8a-de4d15c02da5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

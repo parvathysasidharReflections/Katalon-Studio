@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>footer_About Geiger About Us Press Room Pro_f3d85e</name>
+   <tag></tag>
+   <elementGuidId>22c499a0-e02c-4ded-895a-469c0d9b8fcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>footer.py-5.p-md-5.bg-dark.text-light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/footer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>footer</value>
+      <webElementGuid>b04c7a79-f420-4b0e-8e2d-9032439ae816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-5 p-md-5 bg-dark text-light</value>
+      <webElementGuid>7453ef95-109d-4549-afbf-398932b4b489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About Geiger About Us Press Room Promotional Ideas Social Responsibility Why Promotional Products Our Services Compliance Custom Products Kitting Program Capabilities Information Contact Us Privacy Policy Terms of Use PPE Terms &amp; Conditions Get In Touch  720 Saint Clair StMelbourne, FL 32935   teamyourlogo@geiger.com Follow us on Facebook Follow us on Twitter Follow us on Instagram Follow us on Pinterest Follow us on Youtube Follow us on LinkedIn  ©2023 Geiger All Rights Reserved </value>
+      <webElementGuid>56567714-2e08-4d1c-81a8-c2b6a956921a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/footer[@class=&quot;py-5 p-md-5 bg-dark text-light&quot;]</value>
+      <webElementGuid>da8e8b20-ea17-4944-9636-8d11f9490d69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/footer</value>
+      <webElementGuid>eba24c41-d23e-4515-bc3b-eeda46f62147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where Inspiration and Creativity Meet!'])[1]/following::footer[1]</value>
+      <webElementGuid>0d93cc27-4b30-43c8-837d-51932dcf0950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::footer[1]</value>
+      <webElementGuid>d2ee2f16-55dc-4615-9dec-15d67a8b0dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer</value>
+      <webElementGuid>6f25afd9-9d52-4104-afe4-87425a8e9cd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//footer[(text() = 'About Geiger About Us Press Room Promotional Ideas Social Responsibility Why Promotional Products Our Services Compliance Custom Products Kitting Program Capabilities Information Contact Us Privacy Policy Terms of Use PPE Terms &amp; Conditions Get In Touch  720 Saint Clair StMelbourne, FL 32935   teamyourlogo@geiger.com Follow us on Facebook Follow us on Twitter Follow us on Instagram Follow us on Pinterest Follow us on Youtube Follow us on LinkedIn  ©2023 Geiger All Rights Reserved ' or . = 'About Geiger About Us Press Room Promotional Ideas Social Responsibility Why Promotional Products Our Services Compliance Custom Products Kitting Program Capabilities Information Contact Us Privacy Policy Terms of Use PPE Terms &amp; Conditions Get In Touch  720 Saint Clair StMelbourne, FL 32935   teamyourlogo@geiger.com Follow us on Facebook Follow us on Twitter Follow us on Instagram Follow us on Pinterest Follow us on Youtube Follow us on LinkedIn  ©2023 Geiger All Rights Reserved ')]</value>
+      <webElementGuid>bc9edadb-7dca-4fca-8bca-c01189498390</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

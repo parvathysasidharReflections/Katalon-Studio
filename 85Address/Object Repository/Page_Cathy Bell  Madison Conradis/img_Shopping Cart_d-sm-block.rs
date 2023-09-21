@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Shopping Cart_d-sm-block</name>
+   <tag></tag>
+   <elementGuidId>145e56a2-e0be-4820-96e9-f63cde07b280</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.carousel-item.active > div.img-responsive-cover.img-responsive-hero > picture > a > img.d-sm-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='baseCarousel']/div/div[4]/div/picture/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>699da5b0-bf0e-478a-923a-caa7d3362f3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://s3.amazonaws.com/geiger-public-hosted-files-dev/geigerdotcom/theme/aria/HomePageBanner_GreenGuide2023_1360_400.jpg</value>
+      <webElementGuid>10f92a5f-7fde-40b1-b715-429d9ef51503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>2023 Green Guide</value>
+      <webElementGuid>29271e7f-a916-48ac-9614-920f495b3832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-sm-block</value>
+      <webElementGuid>08a927c8-f4fe-4124-a2a6-e031c6bb711b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;baseCarousel&quot;)/div[@class=&quot;carousel-inner&quot;]/div[@class=&quot;carousel-item active&quot;]/div[@class=&quot;img-responsive-cover img-responsive-hero&quot;]/picture[1]/a[1]/img[@class=&quot;d-sm-block&quot;]</value>
+      <webElementGuid>738de132-2d37-457c-88ce-c0aa18416795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='baseCarousel']/div/div[4]/div/picture/a/img</value>
+      <webElementGuid>5b85dcd3-57eb-4353-86cb-160a8ac851a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='2023 Green Guide']</value>
+      <webElementGuid>7e6f139c-a762-4cb1-8d0e-99dec8326d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/picture/a/img</value>
+      <webElementGuid>afa5cd7b-71e9-4a3e-a1af-31bd4b34bbec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://s3.amazonaws.com/geiger-public-hosted-files-dev/geigerdotcom/theme/aria/HomePageBanner_GreenGuide2023_1360_400.jpg' and @alt = '2023 Green Guide']</value>
+      <webElementGuid>f24193e6-aaf1-430d-a022-c0f5dc49c3bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

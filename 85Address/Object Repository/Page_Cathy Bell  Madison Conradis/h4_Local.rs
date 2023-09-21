@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Local</name>
+   <tag></tag>
+   <elementGuidId>40eb551d-3f03-485d-92d7-cc8abd55edd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.section-heading.text-truncate.with-dot</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/div/div[2]/div/div/div/div/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>f65a98f8-c0d5-4b90-97c9-650933681d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-heading text-truncate with-dot</value>
+      <webElementGuid>f4577f38-5ae4-46ca-8115-0b0863441d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Local</value>
+      <webElementGuid>f26c965b-5550-45d6-b6c1-e864fb430591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;mb-5&quot;]/div[@class=&quot;bg-light&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md py-2&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-body&quot;]/h4[@class=&quot;section-heading text-truncate with-dot&quot;]</value>
+      <webElementGuid>79ab3dc2-f5a7-404d-827d-e07aad8a4b9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/div/div[2]/div/div/div/div/div/div/h4</value>
+      <webElementGuid>f7653b65-8227-400f-91b3-431986965809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/following::h4[1]</value>
+      <webElementGuid>11d8c0f5-405e-481e-8b00-3fed91131772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[1]/following::h4[1]</value>
+      <webElementGuid>63cff4c5-7377-4ed5-bbe5-98213c543d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='National'])[1]/preceding::h4[1]</value>
+      <webElementGuid>2d90fa3f-d7e6-4687-9ea7-0aebb81abb18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='International'])[1]/preceding::h4[2]</value>
+      <webElementGuid>e9960775-ed01-4b0a-b009-93f4c7e9bf02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Local']/parent::*</value>
+      <webElementGuid>a8fc9635-55a4-4d55-94e9-2d9df85d2993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>9eadde27-940a-45fe-821b-978414496528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Local' or . = 'Local')]</value>
+      <webElementGuid>df38304d-ee77-484f-b937-0eef25264828</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

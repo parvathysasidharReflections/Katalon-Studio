@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_We can help you build your brand, promote_371059</name>
+   <tag></tag>
+   <elementGuidId>3bc00030-8800-4e1d-8edb-eea764700649</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.container > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/div[4]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f1eb9c80-7d99-460a-a2b4-c3ce6e565d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We can help you build your brand, promote your services and motivate as well as recognize your employees. We provide branded products, but our business is creating solutions to customers' marketing, promotion, and motivation needs. We offer – Brandspiration® – creative and unrelenting brand support. Geiger is the largest family-owned and managed distributor of promotional products in the United States. Promotional products are proven to help you connect with your customers, prospects, and employees. Geiger takes a consultative approach to your current marketing or promotion challenge. No matter the need, a Geiger Promotional Consultant will work with you to create and implement high-impact programs to get your desired results - cost effectively and responsibly. At Geiger, we combine ideas with creativity to create Brandspiration! Find out how promotional products can help your company find solutions.</value>
+      <webElementGuid>ccef1a1f-7d1b-458d-9bb5-150c2b63728e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container&quot;]/p[1]</value>
+      <webElementGuid>ffa86967-2d72-43d0-8a38-d887003a29c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/div[4]/p</value>
+      <webElementGuid>18e892ff-359f-4b73-94c3-c2ec0013c068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where Inspiration and Creativity Meet!'])[1]/following::p[1]</value>
+      <webElementGuid>e0733978-13a0-4e52-9046-e33da2b3ed2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::p[2]</value>
+      <webElementGuid>1644d04c-4ecf-4c76-9aa2-b00f39e956cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Geiger'])[1]/preceding::p[1]</value>
+      <webElementGuid>a7617783-19e5-4699-8ac9-bab9e3b494b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[2]/preceding::p[1]</value>
+      <webElementGuid>da43b23f-b3b5-4e41-9b62-bfb09afb2e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/p</value>
+      <webElementGuid>0eea2acc-798b-4b9e-95b1-164e1cc9e215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;We can help you build your brand, promote your services and motivate as well as recognize your employees. We provide branded products, but our business is creating solutions to customers&quot; , &quot;'&quot; , &quot; marketing, promotion, and motivation needs. We offer – Brandspiration® – creative and unrelenting brand support. Geiger is the largest family-owned and managed distributor of promotional products in the United States. Promotional products are proven to help you connect with your customers, prospects, and employees. Geiger takes a consultative approach to your current marketing or promotion challenge. No matter the need, a Geiger Promotional Consultant will work with you to create and implement high-impact programs to get your desired results - cost effectively and responsibly. At Geiger, we combine ideas with creativity to create Brandspiration! Find out how promotional products can help your company find solutions.&quot;) or . = concat(&quot;We can help you build your brand, promote your services and motivate as well as recognize your employees. We provide branded products, but our business is creating solutions to customers&quot; , &quot;'&quot; , &quot; marketing, promotion, and motivation needs. We offer – Brandspiration® – creative and unrelenting brand support. Geiger is the largest family-owned and managed distributor of promotional products in the United States. Promotional products are proven to help you connect with your customers, prospects, and employees. Geiger takes a consultative approach to your current marketing or promotion challenge. No matter the need, a Geiger Promotional Consultant will work with you to create and implement high-impact programs to get your desired results - cost effectively and responsibly. At Geiger, we combine ideas with creativity to create Brandspiration! Find out how promotional products can help your company find solutions.&quot;))]</value>
+      <webElementGuid>094923ea-2d23-4dae-a68b-09793567a334</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

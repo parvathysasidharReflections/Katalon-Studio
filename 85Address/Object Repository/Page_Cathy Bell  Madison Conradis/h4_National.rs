@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_National</name>
+   <tag></tag>
+   <elementGuidId>ec730741-31a8-4e67-8042-ef60d931edfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/div/div[2]/div/div/div/div[2]/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>5cb859b5-0425-49fb-b718-7e0e30a501c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-heading text-truncate with-dot</value>
+      <webElementGuid>5b8f865a-7c6a-4e35-a818-1bf8f8f07d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>National</value>
+      <webElementGuid>9e81992a-7708-4d90-9290-a8fc491d241e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;mb-5&quot;]/div[@class=&quot;bg-light&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md py-2&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-body&quot;]/h4[@class=&quot;section-heading text-truncate with-dot&quot;]</value>
+      <webElementGuid>a5920c02-4873-41c8-9523-f0c463ea31f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/div/div[2]/div/div/div/div[2]/div/div/h4</value>
+      <webElementGuid>c07c0086-72cf-4785-a476-ca7a540f9293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Local'])[1]/following::h4[1]</value>
+      <webElementGuid>af2e4476-7884-4694-af0e-97638449aea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/following::h4[2]</value>
+      <webElementGuid>46db7fd5-adf9-42cb-a6af-9def60b73edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='International'])[1]/preceding::h4[1]</value>
+      <webElementGuid>4f86ea8c-4622-40b1-b1c2-a13e1e8c7da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured Products'])[1]/preceding::h4[2]</value>
+      <webElementGuid>41e33ef6-a6f5-42e8-95dd-737a805cd614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='National']/parent::*</value>
+      <webElementGuid>f4e690f1-4431-4f71-b4c1-0978179db45c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/h4</value>
+      <webElementGuid>1ce7e05d-d311-4876-a93f-42cc89024ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'National' or . = 'National')]</value>
+      <webElementGuid>31b5adb5-496c-4056-b8b1-303633304ae1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
