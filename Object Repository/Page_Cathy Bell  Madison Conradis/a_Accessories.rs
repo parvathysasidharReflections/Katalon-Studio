@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Shop by Product</name>
+   <name>a_Accessories</name>
    <tag></tag>
-   <elementGuidId>9d76bd56-b066-4c94-8312-9776e61b0d51</elementGuidId>
+   <elementGuidId>324d17c8-a515-465a-80c9-29bb7506f7a5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.nav-link.dropdown-toggle</value>
+         <value>ul.dropdown-menu.flyout-menu.show > li.flyout > a.dropdown-item.dropdown-toggle.flyout-toggle</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='primaryNavigation']/div/ul/li/a</value>
+         <value>//div[@id='primaryNavigation']/div/ul/li/ul/li/ul/li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a38f6ffe-f62e-4dc1-87c0-fa2f233a30c6</webElementGuid>
+      <webElementGuid>18d711b6-a0f8-4c43-a3f7-cea62ec67e06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://yourlogo.geiger.com/p</value>
-      <webElementGuid>806cafea-4883-4bb2-8b95-bb3789ae794f</webElementGuid>
+      <value>https://yourlogo.geiger.com/b/accessories</value>
+      <webElementGuid>6396179f-5550-45e9-8492-45b1192d0cbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-toggle</name>
       <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>d1c83813-0d8d-4f1b-839a-89a0f14e617f</webElementGuid>
+      <value>flyout</value>
+      <webElementGuid>566b5691-15e8-4755-88f3-ebf190ed5da1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e7e4a4e8-5f37-4513-b28a-323291ca4cd0</webElementGuid>
+      <webElementGuid>bf9be320-5310-46ba-a8d9-b61ebd333923</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,110 +54,110 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>022776b2-cd26-44e0-8e9f-4a9b73aa06da</webElementGuid>
+      <webElementGuid>bebf050e-bfd1-4858-a81b-3a9ccad8b9aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-link dropdown-toggle</value>
-      <webElementGuid>3f4b69ad-c290-4ada-97d4-4d6a6eaa5775</webElementGuid>
+      <value>dropdown-item dropdown-toggle flyout-toggle</value>
+      <webElementGuid>812ae40b-4b66-4054-a8ac-28271c63d9ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Shop by Product</value>
-      <webElementGuid>3951ed0a-1f97-430a-95e1-7cc4bdc71f93</webElementGuid>
+      <value>Accessories</value>
+      <webElementGuid>48b52796-0fb3-420f-883d-90877df5b93d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;primaryNavigation&quot;)/div[@class=&quot;navbar-content&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/a[@class=&quot;nav-link dropdown-toggle&quot;]</value>
-      <webElementGuid>d477864a-c154-4a2a-9f42-ca533c3d99f8</webElementGuid>
+      <value>id(&quot;primaryNavigation&quot;)/div[@class=&quot;navbar-content&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown show&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[@class=&quot;flyout show&quot;]/ul[@class=&quot;dropdown-menu flyout-menu show&quot;]/li[@class=&quot;flyout&quot;]/a[@class=&quot;dropdown-item dropdown-toggle flyout-toggle&quot;]</value>
+      <webElementGuid>b133d198-52fc-43e5-a85c-ea871cff2e8a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='primaryNavigation']/div/ul/li/a</value>
-      <webElementGuid>0d1b612c-b2a7-4df3-9ead-5ab0ad7626f9</webElementGuid>
+      <value>//div[@id='primaryNavigation']/div/ul/li/ul/li/ul/li/a</value>
+      <webElementGuid>264a28ba-603e-4eab-8f6c-dc47a25f7de4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Shop by Product')]</value>
-      <webElementGuid>d3ced765-e6f1-4a93-8ed6-caad481ac973</webElementGuid>
+      <value>//a[contains(text(),'Accessories')]</value>
+      <webElementGuid>bfce3255-9aa9-46a3-a5f2-c87f9c0eb563</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::a[1]</value>
-      <webElementGuid>8802772b-360f-488b-8a56-40f7356fff5a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apparel'])[1]/following::a[1]</value>
+      <webElementGuid>91ddef58-00a1-4935-9c63-f3f6580478e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping cart'])[1]/following::a[1]</value>
-      <webElementGuid>47548f3c-9529-4696-89f6-c4f0c9f4c930</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop by Product'])[1]/following::a[2]</value>
+      <webElementGuid>4200f8f9-c8f1-48f0-b5b5-e4810ea07f9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apparel'])[1]/preceding::a[1]</value>
-      <webElementGuid>3851a3b7-bd7c-49ae-8ad6-bb34c6933d5f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fanny Packs'])[1]/preceding::a[1]</value>
+      <webElementGuid>b6a229d8-38f3-415e-afb3-372ffac027fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessories'])[1]/preceding::a[2]</value>
-      <webElementGuid>e6bb68a5-3c5e-401e-a1c4-a8844721d8e5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footwear'])[1]/preceding::a[2]</value>
+      <webElementGuid>f134688c-5c1b-48aa-8e99-c9a6881cb001</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Shop by Product']/parent::*</value>
-      <webElementGuid>8b73c802-9367-40fd-9c62-4e2129e6c11e</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Accessories']/parent::*</value>
+      <webElementGuid>0237dc57-1f3a-4e03-a6b9-f19298c4f64f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://yourlogo.geiger.com/p')]</value>
-      <webElementGuid>b4678a99-f8e7-48e0-b9af-64008df6750f</webElementGuid>
+      <value>//a[contains(@href, 'https://yourlogo.geiger.com/b/accessories')]</value>
+      <webElementGuid>c21c7bdc-8ec6-48d6-a45c-f15f4c9fe992</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/a</value>
-      <webElementGuid>7777bc0a-e6e9-4d49-a176-4a2c147e6388</webElementGuid>
+      <value>//li/ul/li/ul/li/a</value>
+      <webElementGuid>481c1f45-5833-4bcb-927f-cf11bab7b4c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://yourlogo.geiger.com/p' and (text() = 'Shop by Product' or . = 'Shop by Product')]</value>
-      <webElementGuid>984cf5f4-ee54-4cb7-bce1-5374150ae02c</webElementGuid>
+      <value>//a[@href = 'https://yourlogo.geiger.com/b/accessories' and (text() = 'Accessories' or . = 'Accessories')]</value>
+      <webElementGuid>6fcd940b-73ae-4108-9f8a-9bc24683af3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

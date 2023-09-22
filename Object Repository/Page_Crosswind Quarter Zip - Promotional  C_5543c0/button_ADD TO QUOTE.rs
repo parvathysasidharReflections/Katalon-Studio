@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Sign In</name>
+   <name>button_ADD TO QUOTE</name>
    <tag></tag>
-   <elementGuidId>954d9d74-ad43-4b3f-b366-8e23ec31e128</elementGuidId>
+   <elementGuidId>f6d20b97-eaa0-4bd0-b821-02caafce1b5e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.text-danger</value>
+         <value>button.btn.btn-block.btn-lg.btn-success.mb-3.text-uppercase</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='primaryNavigation']/div/span/strong/a</value>
+         <value>(//button[@type='submit'])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,111 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>a6e1c30a-0cc6-4933-bafe-e7fba6d92c6d</webElementGuid>
+      <value>button</value>
+      <webElementGuid>d9a0e3e0-3092-49fd-8e50-838fe21b742c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>https://yourlogo.geiger.com/login</value>
-      <webElementGuid>1f3a10b7-9907-425d-8fb2-c1cb534b27b7</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>aac2b2dd-1cd2-4561-852e-0d40dfefce4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text-danger</value>
-      <webElementGuid>20651eb1-8520-472e-87d9-4cb628b36307</webElementGuid>
+      <value>btn btn-block btn-lg btn-success mb-3 text-uppercase</value>
+      <webElementGuid>8c3dda93-f4d0-4e62-9f25-f60d2b5f0683</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign In</value>
-      <webElementGuid>71467a11-2f64-4f79-8068-51bf7dc8126a</webElementGuid>
+      <value>ADD TO QUOTE</value>
+      <webElementGuid>da5d3185-7071-41c8-9f6a-b0073e61a4ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;primaryNavigation&quot;)/div[@class=&quot;navbar-content&quot;]/span[@class=&quot;navbar-text mx-auto&quot;]/strong[1]/a[@class=&quot;text-danger&quot;]</value>
-      <webElementGuid>14945e97-c7f3-4672-9d44-e4f3d143e6c5</webElementGuid>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container product-detail mb-4&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;col-md-6 mb-3 mb-md-5 pl-lg-5&quot;]/button[@class=&quot;btn btn-block btn-lg btn-success mb-3 text-uppercase&quot;]</value>
+      <webElementGuid>37565e4e-2f0a-42cf-bd97-8c3c9ec25033</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[4]</value>
+      <webElementGuid>fff54578-b860-49b8-a4a7-d711fd6df66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='primaryNavigation']/div/span/strong/a</value>
-      <webElementGuid>838c75ab-dd4b-496a-87e6-5aa38f4edd99</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Sign In')]</value>
-      <webElementGuid>b77a34a7-019f-422b-b10b-2d76105289fe</webElementGuid>
+      <value>//main[@id='content']/div/div/form/button</value>
+      <webElementGuid>24a52553-a63b-436e-b8c4-6934dc2e54cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expos'])[1]/following::a[1]</value>
-      <webElementGuid>4020674e-aa28-4ee5-b329-77e8b791d9b5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$707.00'])[1]/following::button[1]</value>
+      <webElementGuid>d6cc2d35-0e3c-4b4f-ada3-604746e42cda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::a[1]</value>
-      <webElementGuid>1a642eda-db01-4640-ba31-3c7be76a49c5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::button[1]</value>
+      <webElementGuid>889a7125-f62b-4bbc-be48-89ce41823e4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>725e52ed-e320-4dcd-a594-9026081e8c08</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::button[1]</value>
+      <webElementGuid>2c505ce4-3e03-4f07-84bf-f7567a60a623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>34b9ba4e-aeba-457e-9cf3-aeb0c4a94f75</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, 'https://yourlogo.geiger.com/login')]</value>
-      <webElementGuid>c1bc1a01-4ccf-426f-9661-99f627e15dfd</webElementGuid>
+      <value>//*/text()[normalize-space(.)='ADD TO QUOTE']/parent::*</value>
+      <webElementGuid>90293e65-fbcb-4a3c-9e83-3ccb11ab4dd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//strong/a</value>
-      <webElementGuid>97927184-f803-4eba-bf39-547b807f0698</webElementGuid>
+      <value>//main/div/div/form/button</value>
+      <webElementGuid>a374b474-0e66-4265-b584-4d74cf8bf389</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://yourlogo.geiger.com/login' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>c20d503b-4a4f-483b-87f0-3afd3995c348</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'ADD TO QUOTE' or . = 'ADD TO QUOTE')]</value>
+      <webElementGuid>6af7be70-9e76-479d-abf1-eae542f7338e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

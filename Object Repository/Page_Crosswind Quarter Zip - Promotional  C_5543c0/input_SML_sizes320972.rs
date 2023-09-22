@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_SML_sizes320972</name>
    <tag></tag>
-   <elementGuidId>8dccb491-de74-4a92-b12f-c9616726b4e6</elementGuidId>
+   <elementGuidId>2b016f15-d43b-48c7-a7c4-c289e1645f7e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>#product-size-320972</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@id='product-size-320972']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,47 +22,55 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>54427fd9-6048-4d4e-8001-33acef521007</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>d838cd59-0950-4287-837a-1a83a134e0ca</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>09507e02-0752-47a5-9505-8caa3da0adfb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>301d0120-261c-489a-9e69-8442425cac7d</webElementGuid>
+      <webElementGuid>c0b9ecc8-827c-4571-90b4-f06918683671</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>autocomplete</name>
       <type>Main</type>
-      <value>current-password</value>
-      <webElementGuid>6c8a77f4-e659-48ad-8669-8cd8bd793254</webElementGuid>
+      <value>off</value>
+      <webElementGuid>0afe8f55-4629-4275-8b44-b57225d90db5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>required</name>
+      <name>min</name>
       <type>Main</type>
-      <value>required</value>
-      <webElementGuid>6d1ac8c9-21a8-416d-9469-56992e3d17ae</webElementGuid>
+      <value>0</value>
+      <webElementGuid>e3b2ae86-dddf-4231-8f8b-c9c638f24f7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>product-size-320972</value>
+      <webElementGuid>9b4a6586-948b-44d3-8a57-a4a58fda87c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sizes[320972]</value>
+      <webElementGuid>993b65f2-8e58-446f-b66a-62d2f02d4039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>2feb86c5-a03a-4119-99fd-226f5553ae22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>efa4c2b4-96ae-43ba-a3ef-beb9daae8b10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,46 +78,46 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>13d7fa8d-224e-40b7-9894-0dfe8635d9d7</webElementGuid>
+      <webElementGuid>487bbd49-77b3-4aec-9dd9-36685468d2d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>4af21975-5977-4748-809e-90610a1c5bfd</webElementGuid>
+      <value>id(&quot;product-size-320972&quot;)</value>
+      <webElementGuid>57cba807-c4bc-4a9d-a8e9-5704a0644e57</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>1c15d6f9-45cf-4385-bca2-e4d648d31e88</webElementGuid>
+      <value>//input[@id='product-size-320972']</value>
+      <webElementGuid>65c96c73-b761-4b37-963e-78280f5f915b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//main[@id='content']/div/div/div/div/div[2]/form/div[2]/div/input</value>
-      <webElementGuid>0c57d404-299e-4f5f-8585-05d9e7e8eba5</webElementGuid>
+      <value>//div[@id='customizer']/div/div[3]/div[2]/div/div/div/input</value>
+      <webElementGuid>25ecc8a2-6100-499d-bb80-ffa3b86e1916</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>fed7bdf8-8abf-4713-9bdf-5ee687b1e056</webElementGuid>
+      <value>//div[3]/div[2]/div/div/div/input</value>
+      <webElementGuid>dfa33c45-92c8-418c-be40-e03d89f95a0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'password' and @type = 'password' and @name = 'password']</value>
-      <webElementGuid>06620ca9-3a80-4ce4-b952-b3e6eaad4b1d</webElementGuid>
+      <value>//input[@id = 'product-size-320972' and @name = 'sizes[320972]' and @type = 'number']</value>
+      <webElementGuid>e41f3cb3-5133-4d73-a5e0-31f685600198</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
