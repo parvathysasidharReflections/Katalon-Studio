@@ -34,6 +34,8 @@ WebUI.click(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/
 WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Program Capabilities  Cathy Bell  Madi_d66d1d/li_Program Capabilities'), 
     0)
 
+WebUI.takeScreenshotAsCheckpoint('CheckPoint002')
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Program Capabilities  Cathy Bell  Madi_d66d1d/li_Program Capabilities'), 
     0)
 
@@ -42,6 +44,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Program Capabilit
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Program Capabilities  Cathy Bell  Madi_d66d1d/h4_Global Capabilities'), 
     'Global Capabilities')
+
+WebUI.takeScreenshotAsCheckpoint('CheckPoint001')
 
 WebUI.closeBrowser()
 

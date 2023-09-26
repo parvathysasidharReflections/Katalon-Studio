@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://yourlogo.geiger.com/')
 
+WebUI.takeScreenshotAsCheckpoint('SecondCheckPoint')
+
 WebUI.click(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/a_Sign In'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Login  Cathy Bell  Madison Conradis/input_E-Mail Address_email'), 'howardroark@mailsac.com')
@@ -34,15 +36,25 @@ WebUI.click(findTestObject('Object Repository/Page_Login  Cathy Bell  Madison Co
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/a_Shop by Product'), 'Shop by Product')
 
+WebUI.takeScreenshotAsCheckpoint('ThirdCheckPoint')
+
 WebUI.click(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/a_Shop by Product'))
 
+WebUI.takeScreenshotAsCheckpoint('FourthCheckPoint')
+
 WebUI.click(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/a_Health  Wellness'))
+
+WebUI.takeScreenshotAsCheckpoint('FifthCheckPoint')
 
 WebUI.click(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/a_Thermometers'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Thermometers  Cathy Bell  Madison Conradis/li_Thermometers'))
 
+WebUI.takeScreenshotAsCheckpoint('SixthCheckPoint')
+
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Thermometers  Cathy Bell  Madison Conradis/a_Health  Wellness'))
+
+WebUI.takeScreenshotAsCheckpoint('FirstCheckPoint', [])
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Thermometers  Cathy Bell  Madison Conradis/a_Home'))
 

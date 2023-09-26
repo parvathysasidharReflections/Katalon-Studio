@@ -41,6 +41,8 @@ WebUI.click(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/a_Footwear'), 0)
 
+WebUI.takeScreenshotAsCheckpoint('CheckPoint007')
+
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/a_Footwear'), 'Footwear')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/a_Footwear'))
@@ -51,6 +53,8 @@ WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Footwear  Cat
     0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Footwear  Cathy Bell  Madison Conradis/h1_Footwear'), 'Footwear')
+
+WebUI.takeScreenshotAsCheckpoint('CheckPoint0045')
 
 WebUI.closeBrowser()
 

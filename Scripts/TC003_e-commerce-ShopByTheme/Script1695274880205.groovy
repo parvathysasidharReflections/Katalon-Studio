@@ -21,9 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://yourlogo.geiger.com/')
 
+WebUI.takeScreenshotAsCheckpoint('EleventhCheckPoint')
+
 WebUI.click(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/a_Sign In'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Login  Cathy Bell  Madison Conradis/input_E-Mail Address_email'), 'howardroark@mailsac.com')
+
+WebUI.takeScreenshotAsCheckpoint('EighthCheckPoint')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Cathy Bell  Madison Conradis/input_Password_password'), 
     '3D1MqupY0ePn4ZXQXrt/deiXnF3Gko9O')
@@ -31,6 +35,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Cathy Bell 
 WebUI.click(findTestObject('Object Repository/Page_Login  Cathy Bell  Madison Conradis/button_Log In'))
 
 WebUI.click(findTestObject('Object Repository/Page_Cathy Bell  Madison Conradis/a_Shop by Theme'))
+
+WebUI.takeScreenshotAsCheckpoint('SeventhCheckPoint')
 
 WebUI.closeBrowser()
 

@@ -31,5 +31,7 @@ WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Custom Produc
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Custom Products  Cathy Bell  Madison Conradis/li_Custom Products'), 
     'Custom Products')
 
+WebUI.takeScreenshotAsCheckpoint('CheckPoint011')
+
 WebUI.closeBrowser()
 

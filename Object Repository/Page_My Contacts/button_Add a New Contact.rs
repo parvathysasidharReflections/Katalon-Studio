@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add a New Contact</name>
+   <tag></tag>
+   <elementGuidId>d707e9e3-947c-4109-9337-f8aec5090e47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#add-contact</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='add-contact']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8ced0a07-7b8c-4ca8-950e-066f33e1951b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add-contact</value>
+      <webElementGuid>076dda1e-fb40-4206-86f0-29727943f786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>location.href='/addContact'</value>
+      <webElementGuid>130cf9d0-a012-426f-86f5-3ad542ca33b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add a New Contact</value>
+      <webElementGuid>584e3394-a064-44a0-af89-844f906a40d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-contact&quot;)</value>
+      <webElementGuid>ba9f18be-1df7-4e66-bf42-3c44b4023304</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='add-contact']</value>
+      <webElementGuid>512ea71a-916a-4516-a99a-976f84fbcb8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
+      <webElementGuid>a889ef92-49d2-4744-946a-518a69b2b67d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact List'])[1]/following::button[2]</value>
+      <webElementGuid>75e27ee7-5cd1-4071-aac9-f7e208d10a8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>5d3ca53f-303b-482f-8216-fd8ab6a14819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birthdate'])[1]/preceding::button[1]</value>
+      <webElementGuid>6badcc03-526d-426a-8e66-05044381bc1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add a New Contact']/parent::*</value>
+      <webElementGuid>cbbe277e-6f72-4079-9b2e-776e4656d89c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/button</value>
+      <webElementGuid>bc27312e-c507-4e16-81ea-13640b8b369d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'add-contact' and (text() = 'Add a New Contact' or . = 'Add a New Contact')]</value>
+      <webElementGuid>72f16c48-2a1f-4ab7-9cea-bbddba488552</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
